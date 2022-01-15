@@ -3,6 +3,8 @@
 <!-- Describe briefly what your software is. What problem does it solve? At what target audience is it aimed? -->
 This is a tool, that checks how unique your NFT collection is based on a mathmatical model. See <a href="https://dev.to/dasheck0/how-to-check-how-unique-your-nft-collection-really-is-15be" target="_blank">this article</a> for more information about this. Enter how many NFTs you want to create. We assume that your final NFT consists of layers. Each layer may have different states (i.e. mouth open, mouth closed, mouth with teeth, ...). Add as many layers as you want and describe you many different states each layer has. Based on that we can calculate how big the possibility space of your collection is and how likely it is that you create at least one duplicate pair.
 
+Access the tool <a href="https://nft-uniqueness-checker.vercel.app/" target="_blank">here</a>.
+
 ## Development
 <!-- section: Development -->
 <!-- If you software is developed within a team you shhould include this section. Describe how to setup thhe project. Include dependencies, conventions and other things to know in order to start developing. In short: After reading this section everyone should be able to develop this piece of software. -->
