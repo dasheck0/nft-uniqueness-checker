@@ -5,6 +5,8 @@ This is a tool, that checks how unique your NFT collection is based on a mathmat
 
 Access the tool <a href="https://nft-uniqueness-checker.vercel.app/" target="_blank">here</a>.
 
+![](/art/screenshot.png)
+
 ## Development
 <!-- section: Development -->
 <!-- If you software is developed within a team you shhould include this section. Describe how to setup thhe project. Include dependencies, conventions and other things to know in order to start developing. In short: After reading this section everyone should be able to develop this piece of software. -->
